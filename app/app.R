@@ -7,28 +7,28 @@
 #    http://shiny.rstudio.com/
 #
 
-# install.packages('shiny')
-# install.packages('dplyr')
-# install.packages('tidyverse')
-# install.packages('vroom') #fast reading of csv files
-# install.packages('leaflet') #interactive maps
-# install.packages('htmlwidgets') #interactive map labels
-# install.packages('plotly')
-# install.packages('fontawesome')
-# install.packages('rsconnect')
-# install.packages('tm')
-# install.packages('SnowballC')
-# install.packages('wordcloud')
-# install.packages('RColorBrewer')
-# install.packages('sentimentr')
-# install.packages('ggplot2')
-# install.packages('shinyBS')
-# install.packages('shinyhelper')
-# install.packages('rsconnect')
-# install.packages('terra')
-# install.packages('rgdal')
-# install.packages('Rcpp', dependencies = TRUE)
-# install.packages('sf')
+install.packages('shiny')
+install.packages('dplyr')
+install.packages('tidyverse')
+install.packages('vroom') #fast reading of csv files
+install.packages('leaflet') #interactive maps
+install.packages('htmlwidgets') #interactive map labels
+install.packages('plotly')
+install.packages('fontawesome')
+install.packages('rsconnect')
+install.packages('tm')
+install.packages('SnowballC')
+install.packages('wordcloud')
+install.packages('RColorBrewer')
+install.packages('sentimentr')
+install.packages('ggplot2')
+install.packages('shinyBS')
+install.packages('shinyhelper')
+install.packages('rsconnect')
+install.packages('terra')
+install.packages('rgdal')
+install.packages('Rcpp', dependencies = TRUE)
+install.packages('sf')
 
 library(shiny)
 library(dplyr)
